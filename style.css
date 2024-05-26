@@ -1,0 +1,26 @@
+/* :root{
+    --cor_fundo: #F5F4F1;
+}
+html{
+    background-color: var(--bs-dark-border-subtle);
+}
+.offcanvas-body{
+    background-color: var(--bs-dark-border-subtle);
+}
+.dropdown-menu{
+    background-color: darkseagreen !important;
+} */
+
+/* Ajuste o valor conforme a altura real da navbar */
+.content {
+    padding-top: 70px; /* Supondo que a altura da navbar seja 70px */
+  }
+.card {
+    flex-direction: column-reverse !important;
+}
+.img-padrao {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+  }
+  
